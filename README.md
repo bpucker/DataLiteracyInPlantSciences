@@ -1,5 +1,5 @@
 # DataLiteracyInPlantSciences
-This repository contains scripts and data sets associated with the 'Data Literacy in Plant Sciences' course.
+This repository contains scripts and data sets associated with the ['Data Literacy in Plant Sciences'](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences) course.
 
 
 ## (1) Introduction
