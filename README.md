@@ -28,6 +28,14 @@ Important commands are:
 
 
 ## (2) Understanding the mysteries of plant pigmentation
+Helpful data sets are available here: https://lnk.tu-bs.de/mT90xB.
+
+Here you can find an online tool for co-expression: http://pbb.bot.nat.tu-bs.de/CoExp/
+
+MAFFT can be used for glogabl alignments.
+
+Tools for phylogenetic tree construction: FastTree2, RAxML.
+
 
 ## (3) Re-using gene expression data sets
 
