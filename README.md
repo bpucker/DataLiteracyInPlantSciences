@@ -46,6 +46,25 @@ Tools for phylogenetic tree construction: [FastTree2](http://www.microbesonline.
 
 
 ## (4) Distribution of Caryophyllales
+[GBIF](https://www.gbif.org/) is a valuable source of species distribution data sets. A [tutorial](https://www.r-bloggers.com/2021/03/downloading-and-cleaning-gbif-data-with-r/) explains how to download and clean GBIF data sets. Additional cleaning with [CoordinateCleaner](https://ropensci.github.io/CoordinateCleaner/) is recommended.
+
+Running these cleaning steps requires the installation of several tools:
+`sudo apt-get install r-base`
+`sudo apt-get install gdebi-core`
+`wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-2022.07.0-548-amd64.deb`
+`sudo gdebi rstudio-server-2022.07.0-548-amd64.deb`
+`sudo apt install liblapack-dev libopenblas-dev`
+`sudo apt-get install libcurl4-openssl-dev`
+`sudo apt-get install libxml2-dev`
+`sudo apt-get install libssl-dev`
+`sudo apt-get install libpng-dev`
+`sudo apt install libgdal-dev`
+`sudo apt-get install -y libudunits2-dev`
+
+
+Several R packages are required to run these cleaning analyses:
+"rgbif", "remotes", "slam", "qlcMatrix", "curl", "crul", "ropensci/scrubr", "openssl", "httr", "maps", "CoordinateCleaner"
+
 
 ## (5) Finding flaws in publications
 
