@@ -18,6 +18,13 @@ Important commands are:
 
 `ls` list the content of the working directory
 
+### (1.4) Downloading and transferring files
+`scp` this function can be used to transfer files. Please see the [documentation](https://linux.die.net/man/1/scp) for details.
+
+`wget` this function can be used to download files. Please see the [documentation](https://ftp.gnu.org/old-gnu/Manuals/wget-1.8.1/html_mono/wget.html) for details.
+
+`md5sum <FILENAME>` calculates a hash (finger print) for a given file. This hash can be used to check the complete transfer of files.
+
 
 
 ## (2) Understanding the mysteries of plant pigmentation
