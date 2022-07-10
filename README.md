@@ -32,9 +32,11 @@ Helpful data sets are available here: https://lnk.tu-bs.de/mT90xB.
 
 Here you can find an online tool for co-expression: http://pbb.bot.nat.tu-bs.de/CoExp/
 
-MAFFT can be used for glogabl alignments.
+[MAFFT](https://www.ebi.ac.uk/Tools/msa/mafft/) can be used for glogabl alignments.
 
-Tools for phylogenetic tree construction: FastTree2, RAxML.
+Tools for phylogenetic tree construction: [FastTree2](http://www.microbesonline.org/fasttree/), [RAxML](https://cme.h-its.org/exelixis/web/software/raxml/).
+
+[iTOL](https://itol.embl.de/) is helpful for the visualization of phylogenetic trees.
 
 
 ## (3) Re-using gene expression data sets
