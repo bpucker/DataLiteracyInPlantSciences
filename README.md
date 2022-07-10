@@ -41,6 +41,10 @@ Tools for phylogenetic tree construction: [FastTree2](http://www.microbesonline.
 
 ## (3) Re-using gene expression data sets
 
+[fastq-dump](https://rnnh.github.io/bioinfo-notebook/docs/fastq-dump.html) of the SRA toolkit can be used to download FASTQ files from the [Sequence Read Archieve](https://www.ncbi.nlm.nih.gov/sra).
+
+
+
 ## (4) Distribution of Caryophyllales
 
 ## (5) Finding flaws in publications
