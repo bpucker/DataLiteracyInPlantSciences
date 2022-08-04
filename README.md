@@ -80,4 +80,27 @@ Several R packages are required to run these cleaning analyses:
 
 ## (5) Finding flaws in publications
 
+
+### (6) Statistical tests
+
+The script statistic_test.py contains functions to run some basic statistic tests.
+
+```
+Usage
+python3 statistic_test.py --in <FILE>
+Mandatory:
+--in      STR   Input data file
+
+Optional:
+--test    STR   Statistic test
+--paired  NONE  Indicates paired samples
+```
+
+`--in` or `--input` specifies the input data file that contains the values for statistical tests. The first row must contain the sample names. All following rows are considered data rows. Two columns with one value each are expected. If the samples are unpaired and one sample is larger than the other, the larger sample must be in the first column.
+
+`--test` specifies the statistical test to run.
+
+`--paired` indicates that the samples are paired. This will trigger paired tests if available for the selection.
+
+
 ## References
