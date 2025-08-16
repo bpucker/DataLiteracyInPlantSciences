@@ -30,7 +30,7 @@ Important commands are:
 ## (2) Understanding the mysteries of plant pigmentation
 Helpful data sets are available here: here: https://lnk.tu-bs.de/pE3yxC.
 
-Here you can find an online tool for co-expression: http://pbb.bot.nat.tu-bs.de/CoExp/
+Here you can find an online tool for co-expression: http://pbb-tools.de/CoExp/
 
 [MAFFT](https://www.ebi.ac.uk/Tools/msa/mafft/) can be used for glogabl alignments.
 
