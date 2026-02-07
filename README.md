@@ -1,5 +1,5 @@
 # DataLiteracyInPlantSciences
-This repository contains scripts and data sets associated with the ['Data Literacy in Plant Sciences'](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences) course.
+This repository contains scripts and data sets associated with the ['Data Literacy in Plant Sciences'](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences) course. Please see our [de.NBI course](https://github.com/bpucker/teaching/tree/master/deNBI2025) and the [Long Read Genomics](https://github.com/bpucker/LRG/) repository for updated versions.
 
 
 ## (1) Introduction
@@ -125,5 +125,6 @@ Mandatory:
 
 
 ## References
-RNA-seq analysis: https://doi.org/10.1038/s42255-022-00561-5
-
+- RNA-seq analysis: https://doi.org/10.1038/s42255-022-00561-5
+- Wolff K., Friedhoff R., Schwarzer F. and Pucker B. (2023) "Data literacy in genome research" Journal of Integrative Bioinformatics, vol. 20, no. 4, 2023, pp. 20230033. doi: [10.1515/jib-2023-0033](https://doi.org/10.1515/jib-2023-0033).
+                    
